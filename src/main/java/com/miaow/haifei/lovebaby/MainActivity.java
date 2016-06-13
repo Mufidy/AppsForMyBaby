@@ -114,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
             setCurrent(14);
             current=14;
         }else{
+            current=15;
             setCurrent(15);
         }
     }
